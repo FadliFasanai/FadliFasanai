@@ -1,9 +1,9 @@
 ## Hi there 👋 I am Fadli Sani 
-- My primary programming language: Python, Java.
+- My Tools: Python, Java, Kotlin, JavaScript, Node.js, React.js, PHP, MySQL.
 - Currently managing a startup [company](https://www.jetfalcon.com) focusing on software development and machine learning.
-- Passionate about learning & exploring new technologies. On my free time, I write in Programming Blog and make educational YouTube videos.
+- I am passionate about learning & experimenting with new technologies. On my free time, I write tech blog posts and make educational YouTube videos.
 - I am working on building my online presence and doing my bit to spread knowledge & to guide fellow developers who are just starting their own programming journey.
-- You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+- You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
