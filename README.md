@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Fadli Sani 
 - My primary programming language: Python, Java.
-- Currently managing a startup [company](https://www.ketfalcon.com) focusing on software development and machine learning.
-- Passionate about learning & exploring new technologies. On my free time, I write in [Programming Blog](https://fadlisani.dev) and make educational YouTube videos.
+- Currently managing a startup [company](https://www.jetfalcon.com) focusing on software development and machine learning.
+- Passionate about learning & exploring new technologies. On my free time, I write in Programming Blog and make educational YouTube videos.
 - I am working on building my online presence and doing my bit to spread knowledge & to guide fellow developers who are just starting their own programming journey.
 
 
